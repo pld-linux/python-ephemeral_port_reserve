@@ -7,7 +7,7 @@ Summary:	Python module and utility to reserve an ephemeral port
 Summary(pl.UTF-8):	Moduł i narzędzie pythonowe do rezerwowania wolnego portu
 Name:		python-ephemeral_port_reserve
 Version:	1.1.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/ephemeral-port-reserve/
